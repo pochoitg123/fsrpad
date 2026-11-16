@@ -1,6 +1,6 @@
 {
   "model": "FSRpad:ESP32-WROOM-32E-N8:v1",
-  "build": 6,
-  "size": 2040256,
-  "sha256": "b9b4e6e21b3e37903d6eaeebdb225090c3a1b6fdc67faa69b40af6db54029eca"
+  "build": 8,
+  "size": 2044560,
+  "sha256": "980fdf7ecf41a2a34c0e1ef1badf36f4f58f82fb8b31e722f5564c21eddd3235"
 }
