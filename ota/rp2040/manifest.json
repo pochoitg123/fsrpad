@@ -1,0 +1,6 @@
+{
+    "model":  "FSRpad:RP2040:UART-OTA:v1",
+    "build":  13,
+    "size":  168036,
+    "sha256":  "ad672b75b0069bc23fa0ebc5f8151c6218cde97d06f3f4107fa724273ba46a3a"
+}
